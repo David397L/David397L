@@ -6,17 +6,13 @@
 
 🛠️ I hope to demonstrate that most of the basic (and not-so-basic) requirements of these citation styles can be achieved using BibTeX with minimal difficulty for the end user while their database can remain compatible with any other styles they are accustomed to using.
 
-📫 How to reach me: 
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&link=itsmyusername)](https://www.linkedin.com/in/david-lamkin-5224a320b)
 <!--
 **David397L/David397L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-www.linkedin.com/in/david-lamkin-5224a320b
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lamkin-5224a320b)](https://www.linkedin.com/in/david-lamkin-5224a320b)
-[![linkedin](https://www.readmecodegen.com/api/social-icon?name=linkedin&size=96&textAlignment=horizontal&color=%230a66c2&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-lamkin-5224a320b)](https://www.linkedin.com/in/david-lamkin-5224a320b) 
+
 
 📦 The end product: a set of style files that will help LaTeX users format their bibliographies easily and efficiently.
 
