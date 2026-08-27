@@ -6,7 +6,7 @@
 
 🛠️  I aim to demonstrate that most of the basic (and not-so-basic) requirements of these citation styles can be achieved using BibTeX with minimal difficulty for the end user while their database can remain compatible with any other bibliography styles they are accustomed to using.
 
-📦  The end product: a suite of style files that help LaTeX users format their citations and bibliographies easily and efficiently.
+📦  The end product: a suite of style files to help LaTeX users format their citations and bibliographies easily and efficiently.
 
 
 <!--
